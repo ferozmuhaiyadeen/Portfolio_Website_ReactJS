@@ -7,16 +7,11 @@ class About extends Component {
             <div className="condiv">
             <h1 className="subtopic">About Me</h1>
             <h4>Hey there,</h4>
-            <h1>I'm Abdul Wahid Naafi</h1>
-            <h3>Full Stack Web <u>Developer</u> | UI/UX <u>Designer</u></h3>
+            <h1>I'm Feroz Muhaiyadeen</h1>
+            <h3>System Engineer at <u>Tata Consultancy Services</u> | .NET <u>Developer</u> | React <u>Enthusiast</u> </h3>
             <br></br>
-            <p>I started my journey in the world of computers from an young age,
-            now I’m 20 years old, Pursuing my Software Engineering Degree in
-            VIT University Vellore.  Web development is my center of interest, i always
-            love the idea of cross-platform development, 1-n one code base deploy into almost
-            any platform, which web technology like Javascript enables me to do. I also like
-            creating Interactive UI components for better UX  and share those desgin and codes
-            to the world through Github, Codepen and Instagram.
+            <p>Spiritful professional having a good experience with working in the information technology and services industry. Skilled in Java, ASP.NET,SQL, with a recently developed liking towards React JS and MongoDB.
+Love to develop a full stack site from scratch, preferably MERN Stack, which is currently my favourite pass time. 
             </p>
             
             </div>
